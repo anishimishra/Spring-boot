@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.funny {
+	font-style: italic;
+	color: green;
+}
+
+.font-monospace {
+	font-style: "Times New Roman", Times, serif;
+}
